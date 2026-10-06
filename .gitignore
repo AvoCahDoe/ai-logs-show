@@ -4,3 +4,5 @@ dist
 *.local
 data/current.json
 tsconfig.tsbuildinfo
+.vercel
+.vercel

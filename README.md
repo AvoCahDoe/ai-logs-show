@@ -2,6 +2,9 @@
 
 Standalone React app to visualize Faktura/Gamma chat JSON: message thread, **`network`** execution timeline, **`streamDebug`**, and **`reportRows`**.
 
+- **GitHub:** https://github.com/AvoCahDoe/ai-logs-show
+- **Live (Vercel):** https://ai-logs-show.vercel.app
+
 ## Features
 
 - **Run graph** — interactive trace map (pan/zoom/minimap) built from your JSON, LangSmith-style
